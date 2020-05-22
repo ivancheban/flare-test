@@ -46,6 +46,9 @@
         <loc>https://ivan-newsite.imfast.io/resources/images/hero-image.png</loc>
     </url>
     <url>
+        <loc>https://ivan-newsite.imfast.io/Default.html</loc>
+    </url>
+    <url>
         <loc>https://ivan-newsite.imfast.io/b-feature-topics/feature3.html</loc>
     </url>
     <url>
@@ -55,22 +58,22 @@
         <loc>https://ivan-newsite.imfast.io/resources/masterpages/home-page.flmsp</loc>
     </url>
     <url>
-        <loc>https://ivan-newsite.imfast.io/Default.html</loc>
-    </url>
-    <url>
         <loc>https://ivan-newsite.imfast.io/c-procedure-topics/procedures.html</loc>
     </url>
     <url>
+        <loc>https://ivan-newsite.imfast.io/Default.mcwebhelp</loc>
+    </url>
+    <url>
         <loc>https://ivan-newsite.imfast.io/resources/images/icon-popular-topics.png</loc>
+    </url>
+    <url>
+        <loc>https://ivan-newsite.imfast.io/search.html</loc>
     </url>
     <url>
         <loc>https://ivan-newsite.imfast.io/resources/images/icon-videos.png</loc>
     </url>
     <url>
         <loc>https://ivan-newsite.imfast.io/resources/images/icon-gears.png</loc>
-    </url>
-    <url>
-        <loc>https://ivan-newsite.imfast.io/search.html</loc>
     </url>
     <url>
         <loc>https://ivan-newsite.imfast.io/resources/images/icon-download.png</loc>
@@ -89,9 +92,6 @@
     </url>
     <url>
         <loc>https://ivan-newsite.imfast.io/a-introduction-topics/whats-new.html</loc>
-    </url>
-    <url>
-        <loc>https://ivan-newsite.imfast.io/Default.mcwebhelp</loc>
     </url>
     <url>
         <loc>https://ivan-newsite.imfast.io/resources/images/icon-pdfs.png</loc>
