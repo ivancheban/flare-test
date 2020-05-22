@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
+  DefaultUrl="/Content/index.htm"
+  ShowMadCapBacklink="true"
+  UseCustomTopicFileExtension="true"
+  CustomTopicFileExtension="html"
+  MoveOutputContentToRoot="true"
+  MakeFileLowerCase="true"
+  EnableSitemap="true"
+  SitemapWebUrl="https://ivan-newsite.imfast.io/">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/git.fldes"
+      Publish="true"
+      IsResource="false" />
+    <Destination
+      Link="/Project/Destinations/home.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>
