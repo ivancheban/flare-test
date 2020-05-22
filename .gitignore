@@ -4,6 +4,7 @@
 # files you push to your repository, the more your performance may be affected. #
 #################################################################################
 
+/Output
 /Analyzer
 /FileSync
 /Project/Users
